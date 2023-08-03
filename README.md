@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Dr. AzizKABA
 - 👀 I’m interested in design, control, estimation and optimization of unmanned aerial vehicles!
-- 🌱 I’m currently learning artificial intelligence: machine learning, deep learning and reinforcement learning.
+- 🌱 I’m currently working on artificial intelligence: machine learning, deep learning and reinforcement learning.
 - 💞️ I’m looking to collaborate on UAV, AI and energy subjects.
 - 📫 You can find me on:
 
